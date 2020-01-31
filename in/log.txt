@@ -1,0 +1,2 @@
+{"appkey":"-","appregurl":"http:www.webA.com/sale/register/index.html","bdp_uuid":"-","createtime":"2017-03-30","dn":"webA","domain":"-","dt":"20190722","isranreg":"-","regsource":"0","uid":"0","websiteid":"4"}
+{"appkey":"-","appregurl":"http:www.webA.com/sale/register/index.html","bdp_uuid":"-","createtime":"2018-02-20","dn":"webA","domain":"-","dt":"20190722","isranreg":"-","regsource":"3","uid":"1","websiteid":"2"}
